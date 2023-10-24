@@ -1,2 +1,1 @@
-
-  .listen(3000, () =
+console.log("Method 2 sync");
